@@ -19,8 +19,5 @@ To get started with the Todo List App, clone this repository to your local machi
 ## Contributions
 Contributions to the Todo List App are welcome! Whether it's bug fixes, feature enhancements, or UI improvements, feel free to fork this repository, make your changes, and submit a pull request. Let's collaborate to create a robust and user-friendly task management app for iOS 17.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 Special thanks to the SwiftUI and iOS development community for their valuable insights, tutorials, and contributions to the ecosystem.
